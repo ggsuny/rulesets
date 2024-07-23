@@ -4,3 +4,4 @@ payload:
   - '+.claude'
   - '+.claude.ai'
   - '+.anthropic.com'
+  - '+.chatgpt.com'
