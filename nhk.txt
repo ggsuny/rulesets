@@ -1,0 +1,6 @@
+payload:
+  # nhk
+  - '+.anthropic'
+  - '+.claude'
+  - '+.claude.ai'
+  - '+.anthropic.com'
