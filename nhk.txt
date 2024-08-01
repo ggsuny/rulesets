@@ -5,4 +5,6 @@ payload:
   - '+.claude.ai'
   - '+.anthropic.com'
   - '+.chatgpt.com'
+  - '+.openai.com'
+  - '+.sentry.io'
   - '+.figma.com'
