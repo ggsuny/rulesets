@@ -4,3 +4,8 @@ payload:
   - '+.taobao'
   - '+.cmbwinglung'
   - '+.jd'
+  - '+.weoa.com'
+  - '+.webank.com'
+  - '+.gov.cn'
+  - '+.sc.com'
+  - '+.hsbc'
