@@ -9,3 +9,8 @@ payload:
   - '+.gov.cn'
   - '+.sc.com'
   - '+.hsbc'
+  - '+.weixin.qq.com'
+  - '+.servicewechat.com'
+  - '+.tencent.com'
+  - '+.qq.com'
+  - '+.qpic.cn'
