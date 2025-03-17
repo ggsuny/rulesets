@@ -8,3 +8,5 @@ payload:
   - '+.openai.com'
   - '+.sentry.io'
   - '+.figma.com'
+  - '+.x.com'
+  - '+.grok.com'
