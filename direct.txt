@@ -14,3 +14,5 @@ payload:
   - '+.tencent.com'
   - '+.qq.com'
   - '+.qpic.cn'
+  - '+.chinatai'
+  - '+.hstc'
